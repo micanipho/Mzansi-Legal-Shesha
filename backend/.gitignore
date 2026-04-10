@@ -1,0 +1,16 @@
+/.vs/*
+**/*.suo
+**/*.user
+**/*.bak
+**/*.orig
+**/UpgradeLog.htm
+**/bin/*
+**/obj/*
+**/App_Data/Logs/*
+**/ElmahLogs/*
+Logs
+/src/Sha.mzansilegal.Web.Host/web.config
+/src/Sha.mzansilegal.Web.Host/Sha.mzansilegal.Web.Core.xml
+/sh.exe.stackdump
+
+
